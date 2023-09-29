@@ -17,3 +17,6 @@ This script uses a scraping method to tell if a username is available or not by 
 2. The script reads this list and checks each username by attempting to access their Steam profiles on the Steam Community website.
 3. For each username, it tells you whether it's "taken" (the Steam profile exists) or "not taken" (the Steam profile doesn't exist).
 4. It prints the results, allowing you to quickly see which usernames are available on Steam and which ones are already in use.
+
+
+### Will implement multiprocessing on both tools soon
